@@ -79,8 +79,6 @@ export default async function Home() {
           </div>
         </div>
       </section>
-
-      <section id="contact" className="bg-black py-20 lg:py-24" />
     </main>
   );
 }
