@@ -1,4 +1,4 @@
-heyy
+heyy youuu ma friednd
 
 import { readData } from "@/lib/db";
 
