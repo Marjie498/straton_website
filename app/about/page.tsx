@@ -1,3 +1,5 @@
+heyy
+
 import { readData } from "@/lib/db";
 
 export default async function AboutPage() {
