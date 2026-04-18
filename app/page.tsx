@@ -80,22 +80,7 @@ export default async function Home() {
         </div>
       </section>
 
-      <section id="contact" className="bg-[var(--surface)] py-20 lg:py-24">
-        <div className="mx-auto max-w-5xl px-6 lg:px-10">
-          <div className="rounded-[2.5rem] border border-[var(--border)] bg-[var(--surface-alt)] p-10 text-center shadow-sm">
-            <p className="text-sm uppercase tracking-[0.3em] text-[var(--muted)]">Contact</p>
-            <h2 className="mt-4 text-4xl font-semibold text-[var(--foreground)]">Ready to talk about your next landing page?</h2>
-            <p className="mt-4 text-lg leading-8 text-[var(--muted)]">Reach out and we’ll help you launch a minimal, full-screen homepage that converts.</p>
-            <a
-              href="/contact"
-              className="mt-8 inline-flex rounded-full bg-[var(--accent)] px-10 py-3 text-base font-semibold text-white transition hover:bg-[var(--accent-soft)]"
-            >
-              Contact Us
-            </a>
-          </div>
-
-        </div>
-      </section>
+      <section id="contact" className="bg-black py-20 lg:py-24" />
     </main>
   );
 }
