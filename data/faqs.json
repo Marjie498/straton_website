@@ -1,0 +1,20 @@
+[
+  {
+    "id": "faq-1",
+    "category": "General",
+    "question": "What services do you provide?",
+    "answer": "We offer engagement management, chat handling, retention strategies, and creator support for creator-focused agencies."
+  },
+  {
+    "id": "faq-2",
+    "category": "Services",
+    "question": "How do you support client communication?",
+    "answer": "Our specialists manage inbox replies, VIP messages, and support campaigns while keeping creator voice consistent."
+  },
+  {
+    "id": "faq-3",
+    "category": "Privacy",
+    "question": "How do you maintain professionalism and discretion?",
+    "answer": "We operate with strict confidentiality, polished messaging, and secure communication workflows."
+  }
+]

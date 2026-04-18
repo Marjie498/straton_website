@@ -1,0 +1,9 @@
+[
+  {
+    "id": "user-1",
+    "name": "Admin User",
+    "email": "admin@straton.agency",
+    "role": "Super Admin",
+    "status": "Active"
+  }
+]

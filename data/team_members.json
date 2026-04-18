@@ -1,0 +1,26 @@
+[
+  {
+    "id": "team-1",
+    "name": "Maya Rivera",
+    "position": "Engagement Specialist",
+    "bio": "Expert at converting fans into VIP subscribers with personalized chat strategy.",
+    "image": "",
+    "social": ""
+  },
+  {
+    "id": "team-2",
+    "name": "Leo Chen",
+    "position": "Operations Support",
+    "bio": "Keeps creator communications organized, efficient, and discreet.",
+    "image": "",
+    "social": ""
+  },
+  {
+    "id": "team-3",
+    "name": "Nina Park",
+    "position": "QA Specialist",
+    "bio": "Ensures every message stays on-brand, respectful, and audience-focused.",
+    "image": "",
+    "social": ""
+  }
+]

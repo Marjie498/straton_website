@@ -1,0 +1,20 @@
+[
+  {
+    "id": "service-1",
+    "title": "Audience Engagement Management",
+    "description": "Curated messaging, active fan follow-up, and VIP interaction planning.",
+    "details": "We manage incoming chats, create response templates, and optimize timing for better retention."
+  },
+  {
+    "id": "service-2",
+    "title": "Inbox and Communication Support",
+    "description": "Secure replies, message prioritization, and quick response handling for creators.",
+    "details": "Our team keeps inboxes clear, replies fast, and every conversation consistent with the creator’s style."
+  },
+  {
+    "id": "service-3",
+    "title": "Retention Strategy",
+    "description": "Custom plans to keep fans subscribed and growing long-term engagement.",
+    "details": "We deploy offers, follow-up sequences, and personalized reminders to improve loyalty."
+  }
+]
